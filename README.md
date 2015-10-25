@@ -30,7 +30,7 @@ quote from [@arthurvr](https://github.com/sindresorhus/awesome/issues/219) talki
 * [演練腳本] (https://hackpad.com/ybwMdWVP6Uo)
 * [救災回報 API] (https://hackpad.com/API-TlbbN59qhVh)
 * [第二次大亂鬥 逐字稿] (https://hackpad.com/20151006--4ogA1YY1QZU)
-* 
+
 
 ### 災後重建
 * [八八風災@莫拉克新聞網] (http://www.88news.org/)
