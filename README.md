@@ -25,6 +25,12 @@ quote from [@arthurvr](https://github.com/sindresorhus/awesome/issues/219) talki
 ##### Ushahidi Deployment
 * [日本311大地震@sinsai.info] (http://www.sinsai.info/)
 
+##### 台北市資訊局 x 社群大亂鬥
+* [防災虛擬演練 & 救災進度回報 API 之討論] (https://www.facebook.com/events/1500287026962380/)
+* [演練腳本] (https://hackpad.com/ybwMdWVP6Uo)
+* [救災回報 API] (https://hackpad.com/API-TlbbN59qhVh)
+* [第二次大亂鬥 逐字稿] (https://hackpad.com/20151006--4ogA1YY1QZU)
+* 
 
 ### 災後重建
 * [八八風災@莫拉克新聞網] (http://www.88news.org/)
